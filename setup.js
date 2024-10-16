@@ -23,5 +23,5 @@ document.getElementById('setup-form').addEventListener('submit', function(event)
         }
     });
     localStorage.setItem('players', JSON.stringify(players));
-    window.location.href = 'game.html';
+    window.location.href = 'game/game.html';
 });
