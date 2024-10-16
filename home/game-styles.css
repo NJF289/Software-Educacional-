@@ -5,7 +5,7 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background-image: url('/img/teste.jpg'); /* Adicionar imagem de fundo */
+    background-image: url('../img/teste.jpg'); /* Adicionar imagem de fundo */
     background-size: cover; /* Cobrir toda a tela com a imagem */
     background-position: center; /* Centralizar a imagem de fundo */
 }
