@@ -16,6 +16,7 @@ body {
     justify-content: center;
     width: 100%;
     max-width: 1200px;
+    
 }
 .container {
     display: flex;
